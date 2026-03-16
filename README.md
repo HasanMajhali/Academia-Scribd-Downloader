@@ -54,7 +54,7 @@ Dökümanın orijinal vektörel dosyasını harici API sunucuları (downacademia
 
 1. Bu depoyu indirin ve klasöre çıkartın.
 2. `chrome://extensions` adresine gidin ve **"Geliştirici Modu"**nu açın.
-3. **"Paketlenmiş öğe yükle"** butonuna basın ve projedeki `scribd` klasörünü seçin.
+3. **"Paketlenmiş öğe yükle"** butonuna basın ve projedeki `academicpdf` klasörünü seçin.
 4. Academia veya Scribd üzerinde bir döküman açın, sağ alttaki panel üzerinden indirme işlemini başlatın.
 
 ---
@@ -90,7 +90,7 @@ Attempts to fetch the original document file directly from external processing s
 1. Clone or download this repository.
 2. Navigate to `chrome://extensions` in your browser.
 3. Enable **"Developer mode"**.
-4. Click **"Load unpacked"** and select the `scribd` folder.
+4. Click **"Load unpacked"** and select the `academicpdf` folder.
 
 ---
 
