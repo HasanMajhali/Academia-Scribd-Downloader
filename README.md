@@ -10,6 +10,8 @@
 [![Made for Chrome & Edge](https://img.shields.io/badge/Made%20for-Chrome%20%26%20Edge-4285F4.svg?style=flat&logo=googlechrome&logoColor=white)](https://github.com/abdullah-erturk/Ping-Monitor/archive/refs/heads/main.zip)
 ![Open Source?](https://img.shields.io/badge/Open%20source%3F-Of%20course%21%20%E2%9D%A4-009e0a.svg?style=flat)
 
+![sample](https://github.com/abdullah-erturk/Academia-Scribd-Downloader/blob/main/preview.jpg)
+
 
 ### Nedir?
 Bu eklenti Chrome ve Edge tarayıcıları için hazırlanmıştır. Eklenti, Akademik araştırmalarınızı ve döküman okuma süreçlerinizi kolaylaştırmak için geliştirilmiştir. Modern arayüzü ve güçlü teknik altyapısı ile dökümanları kesintisiz kaydetmenize olanak tanır.
