@@ -23,7 +23,7 @@ This extension is designed for Chrome and Edge browsers. It's designed to facili
 ---
 
 ## Download Link:
-[![Stable?](https://img.shields.io/badge/Release-v1.svg?style=flat)](https://github.com/abdullah-erturk/Ping-Monitor/archive/refs/heads/main.zip)
+[![Stable?](https://img.shields.io/badge/Release-v1.svg?style=flat)](https://github.com/abdullah-erturk/Academia-Scribd-Downloader/archive/refs/heads/main.zip)
 
 <details>
 <summary><strong>Türkçe Tanıtım</strong></summary>
