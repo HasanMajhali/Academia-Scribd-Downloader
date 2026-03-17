@@ -45,7 +45,7 @@ Arayüz, kullanım kolaylığı ve görsel ayrım için her indirme yöntemi iç
 #### 3. Kurulum ve Kullanım
 1. Bu depoyu indirin ve klasöre çıkartın.
 2. `chrome://extensions` veya `edge://extensions` adresine gidin
-3. **"Geliştirici modu"**.nu açın.
+3. **"Geliştirici modu"** nu açın.
 4. **"Paketlenmiş öğe yükle"** butonuna basın ve `academicpdf` klasörünü seçin.
 
 ---
