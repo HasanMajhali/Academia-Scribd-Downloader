@@ -14,10 +14,10 @@
 
 
 ### Nedir?
-Bu eklenti Chrome ve Edge tarayıcıları için profesyonel olarak hazırlanmıştır. Akademik araştırmalarınızı ve döküman okuma süreçlerinizi kolaylaştırmak, dökümanlara her an çevrimdışı erişebilmenizi sağlamak için geliştirilmiştir.
+Bu eklenti Chrome ve Edge tarayıcıları için profesyonel olarak hazırlanmıştır. Akademik araştırmalarınızı ve döküman okuma süreçlerinizi kolaylaştırmak, dökümanlara her an çevrimdışı erişebilmenizi sağlamak için geliştirilmiştir. Türkçe ve İngilizce dil desteği vardır.
 
 ### What is it?
-This extension is a professional tool for Chrome and Edge browsers. It is designed to facilitate your academic research and document reading processes, allowing you to access documents offline at any time.
+This extension is a professional tool for Chrome and Edge browsers. It is designed to facilitate your academic research and document reading processes, allowing you to access documents offline at any time. It has Turkish and English language support.
 </div>
 
 ---
