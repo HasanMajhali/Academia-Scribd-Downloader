@@ -35,7 +35,7 @@ Arayüz, kullanım kolaylığı ve görsel ayrım için her indirme yöntemi iç
 - **Tarayıcı Yöntemi (Koyu Yeşil):** 🏆 [ÖNERİLEN] En karmaşık sayfa yapılarında bile sorunsuz kaydırma ve yakalama sağlayan, hata payı en düşük garantili yöntem.
 - **Akıllı Tarama (Turkuaz):** [GÜVENLİ] Her sayfayı yüksek çözünürlüklü olarak işler, standart dokümanlar için hızlıdır.
 - **Native HQ (Mavi):** [GÜVENLİ] Sayfaları orijinal çözünürlük verileriyle (Scribd Ham İmaj / Academia SVG) çeker.
-- **Orijinal PDF (Mor):** [OTOMATİK] API üzerinden doğrudan orijinal dosyayı çeker. İşlem bittiğinde otomasyon sekmesini **otomatik kapatır**.
+- **Orijinal PDF (Mor):** [OTOMATİK] API üzerinden doğrudan orijinal dosyayı çeker. İşlem bittiğinde otomasyon sekmesini **otomatik kapatır**. Bu yöntem bir servis aracılığıyla indirme/kaydetme işlemi yapar, kullanım esnasında bu servis devre dışı ise başarısız olabilir. Böyle bir durumda diğer seçeneklerini kullanın.
 
 #### 2. Akıllı Teknik Altyapı 🦾
 - **Sürüklenebilir & Tıklanabilir Başlık:** Paneli başlığından tutarak istediğiniz yere taşıyabilir, başlığa tıklayarak tek hareketle küçültüp büyütebilirsiniz.
@@ -63,7 +63,7 @@ Optimized with distinct labeling for better usability:
 - **Scanner Mode (Dark Green):** 🏆 [RECOMMENDED] Guaranteed capture method with smooth sliding support. Best for complex layouts.
 - **Smart Scan (Cyan):** [SAFE] Processes pages in high definition. Fast for standard documents.
 - **Native HQ (Blue):** [SAFE] Captures original high-res data directly.
-- **Original PDF (Purple):** [AUTOMATIC] Direct API download. Includes **auto-close** functionality for automation tabs.
+- **Original PDF (Purple):** [AUTOMATIC] Direct API download. Includes **auto-close** functionality for automation tabs. This method uses a service to perform the download/save process; it may fail if that service is disabled during use. In such a case, please use the other options.
 
 #### 2. Robust Infrastructure 🦾
 - **Draggable & Clickable Header:** Move the panel anywhere or click the header to minimize/maximize instantly.
